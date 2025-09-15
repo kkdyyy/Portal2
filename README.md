@@ -1,13 +1,4 @@
 # Portal
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffuqiuluo%2FPortal.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffuqiuluo%2FPortal?ref=badge_shield)
-
-
-秋夜长，殊未央，月明白露澄清光，层城绮阁遥相望。
-
-QQ交流群：599533037（搜索不到请扫描下方二维码）
-Telegram: https://t.me/portal_fuqiuluo
-
-![QRCODE](img/qrcodemini.png)
 
 The virtual positioning module based on LSPosed only provides Hook system services to achieve virtual positioning, and cannot be integrated into the APP.
 
